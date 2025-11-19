@@ -1,0 +1,5 @@
+{
+  "name": "NanoBanana Red-Box Editor",
+  "description": "A minimal, elegant web app for AI-powered image editing using red-box annotations and Gemini 2.5.",
+  "requestFramePermissions": []
+}
